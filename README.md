@@ -1,4 +1,4 @@
-##**Project Overview:** Language Detection through Text
+## Project Overview: Language Detection through Text
 This project implements a multilingual language detection system using both machine learning and deep learning models. It compares the performance of four different model combinations for identifying languages from text input. The dataset used includes over 10,000 text samples across 17 languages.
 
 ##**Source Code Structure and File Descriptions**
