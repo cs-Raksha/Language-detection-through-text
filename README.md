@@ -46,11 +46,13 @@ Each model is trained on the same dataset and evaluated using the same metrics f
 ## Output
 
 **Model Performance Comparison:**
-                             Model        Accuracy   F1 Score   Precision
-0         Naive Bayes + N-Gram         0.9501      0.9512     0.9581
-1         CNN + N-Gram                 0.9589      0.9597     0.9632
-2         Naive Bayes + TF-IDF         0.9521      0.9529     0.9592
-3         CNN + TF-IDF                 0.9608      0.9615     0.9638
+| Model                        | Accuracy | F1 Score | Precision |
+|------------------------------|----------|----------|-----------|
+| Naive Bayes + N-Gram         | 0.9501   | 0.9512   | 0.9581    |
+| CNN + N-Gram                 | 0.9589   | 0.9597   | 0.9632    |
+| Naive Bayes + TF-IDF         | 0.9521   | 0.9529   | 0.9592    |
+| CNN + TF-IDF                 | 0.9608   | 0.9615   | 0.9638    |
+
 
 Input Sentence: Bonjour, comment allez-vous aujourd'hui?
 
